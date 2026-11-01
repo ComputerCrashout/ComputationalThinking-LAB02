@@ -29,8 +29,8 @@ This project is a functional Web API built using **FastAPI** that deploys a pre-
 
 1. **Clone the repository:**
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd huggingface-fastapi-lab
+git clone https://github.com/ComputerCrashout/ComputationalThinking-LAB02
+cd ComputerCrashout/ComputationalThinking-LAB02
 ```
 
 2. **Create and activate a virtual environment:**
