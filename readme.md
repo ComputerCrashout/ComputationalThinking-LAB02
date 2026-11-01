@@ -116,4 +116,4 @@ python3 test_api.py
 
 ## Demonstration Video
 
-* **Demonstration Video Link:** 
+* **Demonstration Video Link:** https://youtu.be/EqQL8JOlSBY
