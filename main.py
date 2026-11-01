@@ -86,7 +86,6 @@ async def health_check():
     response_model=TranslationResponse,
     status_code=status.HTTP_200_OK,
 )
-@app.post("/api/chat")
 async def predict(request: TranslationRequest):
     text_to_translate = request.message.strip()
     if not text_to_translate:
